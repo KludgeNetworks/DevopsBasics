@@ -18,7 +18,7 @@
 
         </select>
         <br><br>
-        <input type="submit">
+        <input type="Submit">
     </form>
 </center>
 
