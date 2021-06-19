@@ -15,6 +15,7 @@
             <option>WINE</option>
             <option>WHISKY</option>
             <option>BEER</option>
+            <option>WINE</option>
 
         </select>
         <br><br>
