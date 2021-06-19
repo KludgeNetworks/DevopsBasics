@@ -7,7 +7,7 @@
 <body>
 <center>
     <h1>
-        Select the type of Liquor !
+        Select Your Brand  of Liquor !
     </h1>
     <form method="post" action="SelectLiquor">
        <br>
