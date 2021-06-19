@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Liquor Store</title>
+    <title>BevCo Liquor Store</title>
 </head>
 <body>
 <center>
