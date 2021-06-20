@@ -1,29 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
+<%@ page language="java" contentType="text/html; charset=US-ASCII"
+    pageEncoding="US-ASCII"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>BevCo Liquor Store LTD</title>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>First JSP</title>
 </head>
+<%@ page import="java.util.Date" %>
 <body>
-<center>
-    <h1>
-        Select Your Brand  of Liquor !
-    </h1>
-    <form method="post" action="SelectLiquor">
-       <br>
-        <select name="Type" size="1">
-            <option>WINE</option>
-            <option>WHISKY</option>
-            <option>BEER</option>
-            <option>BRANDY</option>
-            <option>RUM</option>
-
-        </select>
-        <br><br>
-        <input type="Submit">
-    </form>
-</center>
-
+<h3>Hi Pankaj</h3><br>
+<strong>Current Time is</strong>: <%=new Date() %>
 
 </body>
 </html>
